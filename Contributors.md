@@ -376,6 +376,7 @@ Joseph Tran
   [Mateusz Kulka](https://github.com/Vuziks)
 - Matt L
 - Harshit kumar
+- [Rayyan Merchant](https://github.com/RayyanMerchant)
 - [Dylan Clements](https://github.com/dclements9)
 - Salva Pinyol
 - [Aman Dev Chowdhary](https://github.com/AthN3090)
